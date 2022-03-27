@@ -7,4 +7,4 @@ Average Fare per Ride, and Average Fare per Driver. These metrics were gathered 
 ## Results
 
 ### Different City Types
-![](analysis/Pyber_fare_summary.png)
+
