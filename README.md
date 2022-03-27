@@ -8,6 +8,7 @@ Average Fare per Ride, and Average Fare per Driver. These metrics were gathered 
 
 ### Different City Types
 This is a summary of the DataFrame in which represents the three type of areas.
+
 ![](analysis/Summary.png)
 * Rural areas had the least amount of rides with the highest Average Fare per Ride.
 * Suburban follows 2nd in least amount of rides and second highest Average Fare per Ride.
@@ -16,3 +17,9 @@ According to my analysis, due to the scarcity of drivers in rural areas, the far
 
 ## Summary
 
+After reviewing overall analysis, I can recommend the following.
+- To make the business flurish, PyBer would need to focus on getting more drivers in Rural areas. Usually rural areas are at significant distance from towns and cities that most drivers from those areas are taking longer rides and having to go back to the rural perameter.
+- From a business point of view, creating incentives for Urban area drivers to head out to Rural areas would beneift the drivers and those in need of rides.
+- PyBer should focus on peak days an hours to fullfill the demand of the rural areas.
+
+![](analysis/Pyber_fare_summary.png)
