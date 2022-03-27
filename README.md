@@ -8,3 +8,4 @@ Average Fare per Ride, and Average Fare per Driver. These metrics were gathered 
 
 ### Different City Types
 
+![](analysis/Summary.png)
