@@ -5,3 +5,6 @@ The purpose of the PyBer project is to analyze the ride sharing data to gain ins
 Average Fare per Ride, and Average Fare per Driver. These metrics were gathered by breaking down types of cities where PyBer runs. Gathering the data helps to improve ride sharing in Rural, Suburban and Urban areas.
 
 ## Results
+
+### Different City Types
+![](analysis/Pyber_fare_summary.png)
